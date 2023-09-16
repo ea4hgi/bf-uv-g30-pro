@@ -9,3 +9,5 @@
 |--|--|
 |UV-G30Pro-CPS.exe|  The actual programming software, in english.|
 |UV-G30Pro-Image-Updater.exe|  A tool to update the radio's boot logo.|
+
+Questions? You can reach me out at qso@ea4hgi.es
